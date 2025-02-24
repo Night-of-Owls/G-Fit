@@ -70,7 +70,7 @@
 
 ```sh
 # Clone the repository
-git clone https://github.com/Owls-of-Nights/GFit.git
+git clone https://github.com/Night-of-Owls/GFit.git
 
 # Navigate to the project directory
 cd GFit
